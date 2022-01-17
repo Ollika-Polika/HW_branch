@@ -1,0 +1,6 @@
+1 Log in
+2 Click Add user button
+3 Fill in all information
+4 Click save
+Expected result: User is successfully added to the list of Company users.
+Actual result: Error message is displayed.

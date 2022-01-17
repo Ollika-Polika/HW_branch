@@ -1,0 +1,10 @@
+1 Login page
+2 Add Company location
+3 Add HR
+4 Add user
+5 Add user information
+6 Edit user information
+7 Delete user
+8 Delete HR
+9 Delete Company
+
